@@ -35,3 +35,9 @@ Berikut adalah pembagian IP yang kami buat berdasarkan teknik subnetting VLSM:
 Berikut adalah tree pembagian IP yang kami buat berdasarkan teknik subnetting VLSM:
 ![VLSMTREE_IT12 drawio (1)](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/113072294/293c7527-7aba-4b1f-b40f-6133467ff7b6)
 
+# GNS3 CIDR
+Berikut adalah topologi yang kami buat di GNS3:
+
+
+## Tree CIDR
+Berikut adalah tree pembagian IP yang kami buat berdasarkan teknik subnetting CIDR:
