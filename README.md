@@ -39,5 +39,9 @@ Berikut adalah tree pembagian IP yang kami buat berdasarkan teknik subnetting VL
 Berikut adalah topologi yang kami buat di GNS3:
 ![WhatsApp Image 2023-12-05 at 15 52 42](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/e0ba150f-73ff-47e5-bd93-5dec37600da5)
 
+## Penggabungan CIDR
+Berikut merupakan penggabungan dari CIDR :
+
 ## Tree CIDR
 Berikut adalah tree pembagian IP yang kami buat berdasarkan teknik subnetting CIDR:
+![IT12_TreeCIDR (1)](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/176ad91b-4f8a-4a23-94cf-ec6f0fafe1ad)
