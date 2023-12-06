@@ -39,13 +39,16 @@ Berikut adalah tree pembagian IP yang kami buat berdasarkan teknik subnetting VL
 Berikut adalah topologi yang kami buat di GNS3:
 ![WhatsApp Image 2023-12-05 at 15 52 42](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/e0ba150f-73ff-47e5-bd93-5dec37600da5)
 
-Dengan pembagian IP adalah sebagai berikut: 
-![image](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/2e4cf015-6022-4880-becd-0906de4d93bf)
-![image](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/cc8b40fb-4098-4b69-be49-1af2e1ffdbba)
-
 ## Penggabungan CIDR
 Berikut merupakan penggabungan dari CIDR :
+![image](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/519b36ed-d53e-4d89-93d1-ab76aa918f0e)
+![image](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/36d3afa1-1e84-49cc-afc7-08757c2e1fd0)
+![image](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/96f78f3a-4031-4dde-bb1c-df98e99d33f5)
 
 ## Tree CIDR
 Berikut adalah tree pembagian IP yang kami buat berdasarkan teknik subnetting CIDR:
 ![IT12_TreeCIDR (1)](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/176ad91b-4f8a-4a23-94cf-ec6f0fafe1ad)
+
+Dari tree CIDR dan penggabungan, didapatkan pembagian IP CIDR dengan diketahui Pembagian, Network ID, Subnet Mask, Netmask, Broadcast, Range Awal, dan Range Akhir yang digunakan pada proses subnetting dan routing pada GNS3
+![image](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/2e4cf015-6022-4880-becd-0906de4d93bf)
+![image](https://github.com/RP-Tama/Jarkom-Modul-4-IT12-2023/assets/107543354/cc8b40fb-4098-4b69-be49-1af2e1ffdbba)
